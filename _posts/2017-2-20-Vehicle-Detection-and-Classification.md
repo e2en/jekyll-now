@@ -13,15 +13,15 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: https://github.com/eren-aydemir/CarND-Vehicle-Detection-and-Tracking/output_images/vehicle.png "Car Image"
-[image2]: https://github.com/eren-aydemir/CarND-Vehicle-Detection-and-Tracking/output_images/nonvehicle.png "Non-car Image"
-[image3]: https://github.com/eren-aydemir/CarND-Vehicle-Detection-and-Tracking/output_images/features.png "Features"
-[image4]: https://github.com/eren-aydemir/CarND-Vehicle-Detection-and-Tracking/output_images/scaled_features.png "Scaled Features"
-[image5]: https://github.com/eren-aydemir/CarND-Vehicle-Detection-and-Tracking/output_images/scaled_together.png "Scaled Features Seperatly"
-[image6]: https://github.com/eren-aydemir/CarND-Vehicle-Detection-and-Tracking/output_images/test6.jpg "Test Image"
-[image7]: https://github.com/eren-aydemir/CarND-Vehicle-Detection-and-Tracking/output_images/test6_found.png "Test Image Found"
-[image8]: https://github.com/eren-aydemir/CarND-Vehicle-Detection-and-Tracking/output_images/test6_heat.png "Heat Image"
-[image9]: https://github.com/eren-aydemir/CarND-Vehicle-Detection-and-Tracking/output_images/test6_final.png "Final Image"
+[image1]: https://github.com/eren-aydemir/CarND-Vehicle-Detection-and-Tracking/blob/master/output_images/vehicle.png "Car Image"
+[image2]: https://github.com/eren-aydemir/CarND-Vehicle-Detection-and-Tracking/blob/master/output_images/nonvehicle.png "Non-car Image"
+[image3]: https://github.com/eren-aydemir/CarND-Vehicle-Detection-and-Tracking/blob/master/output_images/features.png "Features"
+[image4]: https://github.com/eren-aydemir/CarND-Vehicle-Detection-and-Tracking/blob/master/output_images/scaled_features.png "Scaled Features"
+[image5]: https://github.com/eren-aydemir/CarND-Vehicle-Detection-and-Tracking/blob/master/output_images/scaled_together.png "Scaled Features Seperatly"
+[image6]: https://github.com/eren-aydemir/CarND-Vehicle-Detection-and-Tracking/blob/master/output_images/test6.jpg "Test Image"
+[image7]: https://github.com/eren-aydemir/CarND-Vehicle-Detection-and-Tracking/blob/master/output_images/test6_found.png "Test Image Found"
+[image8]: https://github.com/eren-aydemir/CarND-Vehicle-Detection-and-Tracking/blob/master/output_images/test6_heat.png "Heat Image"
+[image9]: https://github.com/eren-aydemir/CarND-Vehicle-Detection-and-Tracking/blob/master/output_images/test6_final.png "Final Image"
 
 
 #### 1. HOG feature detection and SVM classification
