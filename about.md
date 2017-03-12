@@ -6,10 +6,11 @@ permalink: /about/
 
 Some information about you!
 
-### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am Eren Aydemir, a Driver Assistance Technologies Engineer at Ford Otosan working on Autuonomous Vehicle Technologies, a lindy hopper and a electric guitar player. I am a MSc from Yildiz Tecnical University, Mechatronics Engineering.
+
+research of interests: machine learning, computer vision and path planning
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[eren.aydemir@gmail.com](mailto:eren.aydemir@gmail.com)
