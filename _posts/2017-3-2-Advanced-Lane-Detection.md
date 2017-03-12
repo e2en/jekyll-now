@@ -1,16 +1,15 @@
-
-## **Advanced Lane Finding Project**
+keywords: camera calibration and distortion, image thresholding, perspective transform, window search
 
 The goals / steps of this project are the following:
 
-* Compute the camera calibration matrix and distortion coefficients given a set of chessboard images.
-* Apply a distortion correction to raw images.
-* Use color transforms, gradients, etc., to create a thresholded binary image.
-* Apply a perspective transform to rectify binary image ("birds-eye view").
-* Detect lane pixels and fit to find the lane boundary.
-* Determine the curvature of the lane and vehicle position with respect to center.
-* Warp the detected lane boundaries back onto the original image.
-* Output visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
+* Computing the camera calibration matrix and distortion coefficients given a set of chessboard images.
+* Application of the distortion correction to raw images.
+* Use of color transforms, gradients, etc., to create a thresholded binary image.
+* Application of the perspective transform to rectify binary image ("birds-eye view").
+* Detecting lane pixels and fit to find the lane boundary.
+* Determining the curvature of the lane and vehicle position with respect to center.
+* Warping the detected lane boundaries back onto the original image.
+* Output of visual display of the lane boundaries and numerical estimation of lane curvature and vehicle position.
 
 [//]: # (Image References)
 
@@ -23,8 +22,6 @@ The goals / steps of this project are the following:
 [image7]: /images/lane-lines/search.png "Search"
 [image8]: /images/lane-lines/result.png "TestImResult"
 [image9]: /images/lane-lines/test5.jpg_combined_binary.png "TestImResult" 
-
-### [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
 ---
 ### Camera Calibration
