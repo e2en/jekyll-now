@@ -15,7 +15,7 @@ The goals / steps of this project are the following:
 
 [image1]: /images/vehicle-detection/vehicle.png "Car Image"
 [image2]: /images/vehicle-detection/nonvehicle.png "Non-car Image"
-[image3]: /images/vehicle-detectionfeatures.png "Features"
+[image3]: /images/vehicle-detection/features.png "Features"
 [image4]: /images/vehicle-detection/scaled_features.png "Scaled Features"
 [image5]: /images/vehicle-detection/scaled_together.png "Scaled Features Seperatly"
 [image6]: /images/vehicle-detection/test6.jpg "Test Image"
