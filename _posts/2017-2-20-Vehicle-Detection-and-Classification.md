@@ -1,6 +1,7 @@
 keywords: HOG, color and color histogram feature extraction methods, sliding-window technique, heatmap creation and false-positive filtering 
 
 
+---
 The goals / steps of this project are the following:
 
 * Perform a Histogram of Oriented Gradients (HOG) feature extraction on a labeled training set of images and train a classifier Linear SVM classifier,
@@ -24,6 +25,7 @@ The goals / steps of this project are the following:
 [image9]: /images/vehicle-detection/test6_final.png "Final Image"
 
 
+---
 #### 1. HOG feature detection and SVM classification
 
 
@@ -51,6 +53,7 @@ As one can see all feature plotings in different scaling domain and they should 
 For a further step this scaled and combined features matrices should be used for classifications. Using support vector machines and label matrices of car and non-car images it is possible. By using `LinearSVC()` class and `svc.fit` function with only using HOG features %99 test accuracy is achieved with %20 splitted test set.
 
 
+---
 #### 2. Finding cars
 
 
@@ -61,6 +64,8 @@ For a further step this scaled and combined features matrices should be used for
 |:------------------------:|:------------------------------:|
 |![Test Image][image6]     |![Test Image Found][image7]     |
 
+
+---
 #### 3. Heat map
 
 
@@ -72,6 +77,7 @@ There is three functions in pipeline for heatmap plotting. Heatmap help us to un
 |![Test Image][image6]     |![Heat Image][image8]           |
 
 
+---
 #### 4. Results of test images
 
 
@@ -82,17 +88,17 @@ Here's a example test image result, found car bounding boxes and heat map result
 |![Test Image][image6]     |![Test Image Final][image9]     |
 
 
-
+---
 #### 5. Results of project video
 
 
 Here's a [link to my video result](./project_video_output_v1.mp4)
 
 
+---
 #### 6. Discussion
 
 
 In this project; color, bin spatial and HOG feature creations are investigated. SVM classifier is implemented and it is trained with car and non-car images. For vehicle detection and tracking alogrithm development, trained classifier is used with window search algorithm. Feature matrix is calculated at once and it is subsampled images asked for the result from trained classifier. According to returned result of a classifier, car found boxes rewarded by 1 and heat map is generated according to `label` matrix and false positives are eliminated accordingly.
 
 When the car is not likely to a "car shape" this pipeline are close to fail. Color based feature matrix classification should be added to HOG for this kind for failes. And finally bounding box smoothing should be implemeted for less jittery visualization.
- 
