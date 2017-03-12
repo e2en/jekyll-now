@@ -6,21 +6,21 @@ Here is the self-driving vehicles newsletter that summarizes monthly news from O
 
 [//]: # (Image References)
 
-[image1]: /images/newsletter-february/fordargoai.jpg "Ford-Argo Image"
-[image2]: /images/newsletter-february/ford-aachen.jpg "Ford-Aachen Image"
-[image3]: /images/newsletter-february/ethical-dilemma.jpg "Ethical-dilemma"
-[image4]: /images/newsletter-february/tri-sdc.jpg "Toyota Image"
-[image5]: /images/newsletter-february/mercedes-etruck.jpg "Mercedes-etruck Image"
-[image6]: /images/newsletter-february/bmw-here-mobileye.jpg "BMW-Here-Mobileye"
-[image7]: /images/newsletter-february/embark.jpg "Embark Image"
-[image8]: /images/newsletter-february/starsky.jpg "Starsky Image"
-[image9]: /images/newsletter-february/driveai.jpg "drive.ai Image"
-[image10]: /images/newsletter-february/cruise.jpg "cruise Image"
-[image11]: /images/newsletter-february/tesla.jpg "tesla Image"
-[image12]: /images/newsletter-february/disengagement.jpg "disengagement Image"
-[image13]: /images/newsletter-february/nio.jpg "NIO Image"
-[image14]: /images/newsletter-february/threed-maps.jpg "ThreeD Maps Image"
-[image15]: /images/newsletter-february/gm-bolt-sdc.jpg "GM SDC Image"
+[image1]: /images/newsletter_february/fordargoai.jpg "Ford-Argo Image"
+[image2]: /images/newsletter_february/ford-aachen.jpg "Ford-Aachen Image"
+[image3]: /images/newsletter_february/ethical-dilemma.jpg "Ethical-dilemma"
+[image4]: /images/newsletter_february/tri-sdc.jpg "Toyota Image"
+[image5]: /images/newsletter_february/mercedes-etruck.jpg "Mercedes-etruck Image"
+[image6]: /images/newsletter_february/bmw-here-mobileye.jpg "BMW-Here-Mobileye"
+[image7]: /images/newsletter_february/embark.jpg "Embark Image"
+[image8]: /images/newsletter_february/starsky.jpg "Starsky Image"
+[image9]: /images/newsletter_february/driveai.jpg "drive.ai Image"
+[image10]: /images/newsletter_february/cruise.jpg "cruise Image"
+[image11]: /images/newsletter_february/tesla.jpg "tesla Image"
+[image12]: /images/newsletter_february/disengagement.jpg "disengagement Image"
+[image13]: /images/newsletter_february/nio.jpg "NIO Image"
+[image14]: /images/newsletter_february/threed-maps.jpg "ThreeD Maps Image"
+[image15]: /images/newsletter_february/gm-bolt-sdc.jpg "GM SDC Image"
 
 
 #### Ford to Invest $1 bIllIon In ARGO AI
