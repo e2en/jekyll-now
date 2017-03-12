@@ -1,6 +1,3 @@
-## Self-driving Vehicles Newsletter - February
-
-
 Here is the self-driving vehicles newsletter that summarizes monthly news from OEMs, Tier-1 suppliers and start-ups who develops self-driving vehicles for safer and more efficient transportation future. Enjoy!
 
 
