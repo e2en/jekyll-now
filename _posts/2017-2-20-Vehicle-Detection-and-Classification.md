@@ -1,26 +1,27 @@
-# Vehicle Detection
+keyword: HOG, color and color histogram feature extraction methods, sliding-window technique, false-positive filtering 
+
 
 The goals / steps of this project are the following:
 
-* Perform a Histogram of Oriented Gradients (HOG) feature extraction on a labeled training set of images and train a classifier Linear SVM classifier
-* Optionally, you can also apply a color transform and append binned color features, as well as histograms of color, to your HOG feature vector. 
-* Note: for those first two steps don't forget to normalize your features and randomize a selection for training and testing.
-* Implement a sliding-window technique and use your trained classifier to search for vehicles in images.
-* Run your pipeline on a video stream (start with the test_video.mp4 and later implement on full project_video.mp4) and create a heat map of recurring detections frame by frame to reject outliers and follow detected vehicles.
-* Estimate a bounding box for vehicles detected.
+* Perform a Histogram of Oriented Gradients (HOG) feature extraction on a labeled training set of images and train a classifier Linear SVM classifier,
+* Color transform and append binned color features, histograms of color,
+* Feature normalization, mean extraction and reducing standard deviation of data to 1,
+* Implemention of sliding-window technique and use of trained classifier to search for vehicles in images,
+* Creation of heat map of detections to reject outliers, false positives and follow detected vehicles.
+* Estimating a bounding box for vehicles detected.
 
 
 [//]: # (Image References)
 
-[image1]: ./output_images/vehicle.png "Car Image"
-[image2]: ./output_images/nonvehicle.png "Non-car Image"
-[image3]: ./output_images/features.png "Features"
-[image4]: ./output_images/scaled_features.png "Scaled Features"
-[image5]: ./output_images/scaled_together.png "Scaled Features Seperatly"
-[image6]: ./output_images/test6.jpg "Test Image"
-[image7]: ./output_images/test6_found.png "Test Image Found"
-[image8]: ./output_images/test6_heat.png "Heat Image"
-[image9]: ./output_images/test6_final.png "Final Image"
+[image1]: CarND-Vehicle-Detection-and-Tracking/test_images/output_images/vehicle.png "Car Image"
+[image2]: CarND-Vehicle-Detection-and-Tracking/test_images/output_images/nonvehicle.png "Non-car Image"
+[image3]: CarND-Vehicle-Detection-and-Tracking/test_images/output_images/features.png "Features"
+[image4]: CarND-Vehicle-Detection-and-Tracking/test_images/output_images/scaled_features.png "Scaled Features"
+[image5]: CarND-Vehicle-Detection-and-Tracking/test_images/output_images/scaled_together.png "Scaled Features Seperatly"
+[image6]: CarND-Vehicle-Detection-and-Tracking/test_images/output_images/test6.jpg "Test Image"
+[image7]: CarND-Vehicle-Detection-and-Tracking/test_images/output_images/test6_found.png "Test Image Found"
+[image8]: CarND-Vehicle-Detection-and-Tracking/test_images/output_images/test6_heat.png "Heat Image"
+[image9]: CarND-Vehicle-Detection-and-Tracking/test_images/output_images/test6_final.png "Final Image"
 
 
 #### 1. HOG feature detection and SVM classification
