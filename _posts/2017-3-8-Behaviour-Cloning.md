@@ -1,6 +1,7 @@
 
-## **End-to-end Driving Behavioral Cloning Project**
+keywords: end - to end learning, convolutional neural networks
 
+---
 The goals / steps of this project are the following:
 
 * Dataset creation and data acquisition strategy
@@ -9,9 +10,9 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./output_images/nvidia_architecture.png "Architecture"
-[image2]: ./output_images/error_loss.png "Loss"
-[image3]: ./output_images/simulator.jpg "Simulator"
+[image1]: /images/behaviour-clone/nvidia_architecture.png "Architecture"
+[image2]: /images/behaviour-clone/error_loss.png "Loss"
+[image3]: /images/behaviour-clone/simulator.jpg "Simulator"
 
 
 ### [Rubric](https://review.udacity.com/#!/rubrics/432/view) Points
