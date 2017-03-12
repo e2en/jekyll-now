@@ -13,15 +13,15 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./images/vehicle-detection/vehicle.png "Car Image"
-[image2]: ./images/vehicle-detection/nonvehicle.png "Non-car Image"
-[image3]: ./images/vehicle-detectionfeatures.png "Features"
-[image4]: ./images/vehicle-detection/scaled_features.png "Scaled Features"
-[image5]: ./images/vehicle-detection/scaled_together.png "Scaled Features Seperatly"
-[image6]: ./images/vehicle-detection/test6.jpg "Test Image"
-[image7]: ./images/vehicle-detection/test6_found.png "Test Image Found"
-[image8]: ./images/vehicle-detection/test6_heat.png "Heat Image"
-[image9]: ./images/vehicle-detection/test6_final.png "Final Image"
+[image1]: /images/vehicle-detection/vehicle.png "Car Image"
+[image2]: /images/vehicle-detection/nonvehicle.png "Non-car Image"
+[image3]: /images/vehicle-detectionfeatures.png "Features"
+[image4]: /images/vehicle-detection/scaled_features.png "Scaled Features"
+[image5]: /images/vehicle-detection/scaled_together.png "Scaled Features Seperatly"
+[image6]: /images/vehicle-detection/test6.jpg "Test Image"
+[image7]: /images/vehicle-detection/test6_found.png "Test Image Found"
+[image8]: /images/vehicle-detection/test6_heat.png "Heat Image"
+[image9]: /images/vehicle-detection/test6_final.png "Final Image"
 
 
 #### 1. HOG feature detection and SVM classification
