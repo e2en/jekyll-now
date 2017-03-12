@@ -27,7 +27,7 @@ The goals / steps of this project are the following:
 ### [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
 ---
-###Camera Calibration
+### Camera Calibration
 
 First step of a computer vision problem where approximate calculation of some dimensions are needed is camera calibration. Camera calibration is calcution of intrinstic parameters like optical center of camera or focal length in different axis and determination of optical distortion coefficients like tangential or radial or both due usage of lens. In [OpenCV documentation page](http://docs.opencv.org/2.4/doc/tutorials/calib3d/camera_calibration/camera_calibration.html?) great explanation of these calculation may find further.
 
