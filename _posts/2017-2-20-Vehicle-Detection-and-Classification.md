@@ -1,4 +1,4 @@
-keyword: HOG, color and color histogram feature extraction methods, sliding-window technique, false-positive filtering 
+keywords: HOG, color and color histogram feature extraction methods, sliding-window technique, heatmap creation and false-positive filtering 
 
 
 The goals / steps of this project are the following:
@@ -13,15 +13,15 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: CarND-Vehicle-Detection-and-Tracking/test_images/output_images/vehicle.png "Car Image"
-[image2]: CarND-Vehicle-Detection-and-Tracking/test_images/output_images/nonvehicle.png "Non-car Image"
-[image3]: CarND-Vehicle-Detection-and-Tracking/test_images/output_images/features.png "Features"
-[image4]: CarND-Vehicle-Detection-and-Tracking/test_images/output_images/scaled_features.png "Scaled Features"
-[image5]: CarND-Vehicle-Detection-and-Tracking/test_images/output_images/scaled_together.png "Scaled Features Seperatly"
-[image6]: CarND-Vehicle-Detection-and-Tracking/test_images/output_images/test6.jpg "Test Image"
-[image7]: CarND-Vehicle-Detection-and-Tracking/test_images/output_images/test6_found.png "Test Image Found"
-[image8]: CarND-Vehicle-Detection-and-Tracking/test_images/output_images/test6_heat.png "Heat Image"
-[image9]: CarND-Vehicle-Detection-and-Tracking/test_images/output_images/test6_final.png "Final Image"
+[image1]: ./CarND-Vehicle-Detection-and-Tracking/test_images/output_images/vehicle.png "Car Image"
+[image2]: ./CarND-Vehicle-Detection-and-Tracking/test_images/output_images/nonvehicle.png "Non-car Image"
+[image3]: ./CarND-Vehicle-Detection-and-Tracking/test_images/output_images/features.png "Features"
+[image4]: ./CarND-Vehicle-Detection-and-Tracking/test_images/output_images/scaled_features.png "Scaled Features"
+[image5]: ./CarND-Vehicle-Detection-and-Tracking/test_images/output_images/scaled_together.png "Scaled Features Seperatly"
+[image6]: ./CarND-Vehicle-Detection-and-Tracking/test_images/output_images/test6.jpg "Test Image"
+[image7]: ./CarND-Vehicle-Detection-and-Tracking/test_images/output_images/test6_found.png "Test Image Found"
+[image8]: ./CarND-Vehicle-Detection-and-Tracking/test_images/output_images/test6_heat.png "Heat Image"
+[image9]: ./CarND-Vehicle-Detection-and-Tracking/test_images/output_images/test6_final.png "Final Image"
 
 
 #### 1. HOG feature detection and SVM classification
