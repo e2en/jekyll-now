@@ -1,6 +1,7 @@
 
 keywords: end - to end learning, convolutional neural networks
 
+
 ---
 The goals / steps of this project are the following:
 
@@ -15,13 +16,12 @@ The goals / steps of this project are the following:
 [image3]: /images/behaviour-clone/simulator.jpg "Simulator"
 
 
-### [Rubric](https://review.udacity.com/#!/rubrics/432/view) Points
-
 ---
 ### Introduction
 In this project; it is aimed to design self-driving simulator agent who estimates required steering command to keep the vehicle in lane. By using [udacity simulator](https://github.com/udacity/self-driving-car-sim), user driving steering angles and camera images are recorded and model has been trained to reflect user's driving characteristic into the track
 
 ![Simulator Image][image3]
+
 
 ---
 #### Dataset and Data Acquisition Strategy
@@ -43,6 +43,7 @@ Driving on egdes of the lane is helps to recover the vehicle when it closes to o
 It should also be mentioned; not only center camera images but also side images has been used to increase total number of images. By adding small amount (0.05) of shifts to their steering angles, agent also learns to keep the vehicle in center of lane. 
 
 After all of the efforts mentioned above here; we have approximately 9000 images here is to be used for training section. There is about 2000 images have been recorded as well for to be validate training results.
+
 
 ---
 #### Model Architecture
@@ -73,6 +74,7 @@ In this learning model, dropout technique has been used to overcome overfitting.
 
 It is also should be stated; Adam optimizer is used, loss metric is choosen as mean squared error. Nonlinearity for activation function is tanh function. 
 
+
 ---
 #### Training and Validation
 
@@ -82,10 +84,12 @@ As a result in below loss plot has been tracked whether the model is underfittin
 
 ![Loss Image][image2]
 
+
 ---
 #### Result of test video
 
 Here's a [link to my video result](./run1.mp4)
+
 
 ---
 ### Discussion
