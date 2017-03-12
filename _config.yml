@@ -18,9 +18,9 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: eren.aydemir@gmail.com
-  facebook: https://www.facebook.com/e2ena
-  github: https://github.com/eren-aydemir 
-  linkedin: https://www.linkedin.com/in/eren-aydemir-5838b630/
+  facebook: e2ena
+  github: eren-aydemir 
+  linkedin: eren-aydemir-5838b630/
   rss: asd # just type anything here for a working RSS icon
   youtube: user/e2enay # channel/<your_long_string> or user/<user-name>
 
