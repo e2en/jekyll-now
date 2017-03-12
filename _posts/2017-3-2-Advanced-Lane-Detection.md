@@ -14,15 +14,15 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./camera_cal/calibration1.jpg "Original1 Image"
-[image2]: ./camera_cal/undistorted.jpg "Undistorted Image"
-[image3]: ./test_images/test5.jpg "Original2 Image"
-[image4]: ./output_images/test5.jpg_color_binary.png "Color Binary Image"
-[image5]: ./output_images/straight_line1_warped_binary.png "Binary Warped"
-[image6]: ./output_images/histogram_output.png "Histogram"
-[image7]: ./output_images/search.png "Search"
-[image8]: ./output_images/result.png "TestImResult"
-[image9]: ./output_images/test5.jpg_combined_binary.png "TestImResult" 
+[image1]: images/lane-lines/calibration1.jpg "Original1 Image"
+[image2]: images/lane-lines/undistorted.jpg "Undistorted Image"
+[image3]: images/lane-lines/test5.jpg "Original2 Image"
+[image4]: images/lane-lines/test5.jpg_color_binary.png "Color Binary Image"
+[image5]: images/lane-lines/straight_line1_warped_binary.png "Binary Warped"
+[image6]: images/lane-lines/histogram_output.png "Histogram"
+[image7]: images/lane-lines/search.png "Search"
+[image8]: images/lane-lines/result.png "TestImResult"
+[image9]: images/lane-lines/test5.jpg_combined_binary.png "TestImResult" 
 
 ### [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
